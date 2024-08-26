@@ -37,7 +37,7 @@
 
 
 
-## 🌍 必要な API キー
+## 🌍 API KEYの取得
 
 このアプリは**Google Maps API** と **ChatGPT API** の 2 つのAPIを使用しています。
 以下の手順でそれぞれの API キーを取得し、アプリの設定画面からAPI KEYを入力してください。
