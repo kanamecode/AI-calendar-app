@@ -39,7 +39,8 @@
 
 ## 🌍 必要な API キー
 
-このアプリを正常に動作させるには、**Google Maps API** と **ChatGPT API** の 2 つの API キーが必要です。以下の手順でそれぞれの API キーを取得し、設定してください。
+このアプリは**Google Maps API** と **ChatGPT API** の 2 つのAPIを使用しています。
+以下の手順でそれぞれの API キーを取得し、アプリの設定画面からAPI KEYを入力してください。
 
 ### Google Maps API キーの取得と設定
 
