@@ -49,9 +49,9 @@ iosにビルドする場合、ios14以降のバージョンを指定してくだ
 1. [Google Cloud Console](https://console.cloud.google.com/) にアクセスし、Google アカウントでログインします。
 2. 新しいプロジェクトを作成するか、既存のプロジェクトを選択します。
 3. ナビゲーションメニューから「API とサービス」 > 「ライブラリ」に移動します。
-4. 「Google Maps JavaScript API」を検索し、有効にします。
-5. 「API とサービス」 > 「認証情報」に移動し、「認証情報を作成」ボタンをクリックして「API キー」を選択します。
-6. 生成された API キーをコピーします。
+4. 「Maps JavaScript API」,「Maps SDK for iOS」,「Maps SDK for Android」を検索し、有効にします。
+6. 「API とサービス」 > 「認証情報」に移動し、「認証情報を作成」ボタンをクリックして「API キー」を選択します。
+7. 生成された API キーをコピーします。
 
 ### ChatGPT API キーの取得と設定
 
