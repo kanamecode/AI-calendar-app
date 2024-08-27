@@ -34,6 +34,7 @@
   [こちらのリンク](https://github.com/kanamecode/AI-calendar-app/blob/main/apk/AI%20Calendar%20App.apk)  
 このURLは本プロジェクトのapkフォルダです。  
 
+iosにビルドする場合、ios14以降のバージョンを指定してください。
 
 
 
