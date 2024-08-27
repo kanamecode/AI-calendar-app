@@ -31,7 +31,7 @@
 ## 📥 アプリのインストール
 
 アプリのインストーラーは以下のURLからダウンロードできます。
-Androidで動作するインストーラーです。
+Androidで動作するインストーラーです。  
   [こちらのリンク](https://github.com/kanamecode/AI-calendar-app/blob/main/apk/AI%20Calendar%20App.apk)  
 このURLは本プロジェクトのapkフォルダ内のapkファイルです。  
 
